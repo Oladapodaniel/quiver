@@ -33,7 +33,7 @@ const comments = [
 <template>
   <main>
     <div class="container mt-10 mx-auto">
-      <div class="flex flex-wrap gap-7">
+      <div class="flex flex-wrap gap-3 sm:gap-7">
         <PrimaryButton 
           text="Create post" 
           class="md:px-[100px]"
